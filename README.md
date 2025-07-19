@@ -1,6 +1,6 @@
 # 🌹 Rose Black Contact
 
-Rose Black Contact is a lightweight FiveM utility script that scans the game world for specific objects (ATMs, bins, etc.) defined in a config file. It continuously detects and logs their coordinates into a `.txt` file — avoiding duplicates and allowing toggled scanning.
+Rose Black Contact is basically very similar to the black market script, only it was rethought and translated into a different format, the logic remains the same.
 
 ---
 
