@@ -27,7 +27,7 @@ You simply get a card and when you have the card on you, you interact with the p
 ## 🚀 Installation
 
 Install [ox_lib](https://github.com/overextended/ox_lib)
-Configurable framework [qb-core]([https://github.com/overextended/ox_lib](https://docs.qbcore.org/qbcore-documentation/qb-core/core-object)) [ox_core](https://github.com/overextended/ox_core) [es_extended](https://docs.esx-framework.org/en/esx_core)
+Configurable framework [qb-core](https://docs.qbcore.org/qbcore-documentation/qb-core/core-object) [ox_core](https://github.com/overextended/ox_core) [es_extended](https://docs.esx-framework.org/en/esx_core)
 
 1. Extract the `rose-blackmarket` folder into your server's `resources` directory.
 2. Extract the `ox_lib` folder into your server's `resources` directory.
