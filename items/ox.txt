@@ -1,0 +1,10 @@
+["number_card"] = {
+	label = "Number Card",
+	weight = 0,
+	stack = true,
+	close = true,
+	description = "A number card to contact someone by someone.",
+	client = {
+			image = "number_card.png",
+	}
+},

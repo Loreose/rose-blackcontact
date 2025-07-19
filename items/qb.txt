@@ -1,0 +1,1 @@
+number_card = { name = 'number_card', label = 'Number Card', weight = 0, type = 'item', image = 'number_card.png', unique = false, useable = true, shouldClose = true, description = 'A number card to contact someone by someone.' },
